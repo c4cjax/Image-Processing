@@ -4,7 +4,10 @@ import java.io.File;
 import java.io.IOException;
 
 import javax.imageio.ImageIO;
-
+/*
+Here is a helpful link to understanding Bitwise operations used in this program:
+https://www.dyclassroom.com/image-processing-project/how-to-get-and-set-pixel-value-in-java
+*/
 public class GrayScale {
 	public static void main(String args[]) throws IOException{
 		
